@@ -1,2 +1,4 @@
-# d3d11 hook base
 
+GameOverlayRenderer64.dll : d3d11 hook
+
+hooks present/resize/release for documentation 
